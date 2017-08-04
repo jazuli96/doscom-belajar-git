@@ -1,6 +1,12 @@
 dia 
 
-dia seorang manusia 
+dia bukan manusia 
 hanyalah manusia
-yang seperti manusia
+yang bukan manusia
+namun tetaplah manusia
 
+
+	-untracked / unstaged
+	-----------
+	-staged
+	-commited
